@@ -1,0 +1,169 @@
+.firstsection{
+    background-image: url("../../Assets/login.svg");
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.firstwhole-section{   
+    display: flex;
+}
+.firstrow-section{
+    width: fit-content;
+    margin: auto;
+}
+/* input:focus-visible:required:invalid {
+    border-color: #c00000;
+  } */
+  /* input:valid {
+    border: 1.5px solid #CA240E !important;
+  } */
+  /* input:focus:invalid{
+    border: 1.5px solid #CA240E !important;
+  } */
+.error {
+    border:2px solid red;
+}
+.revolution-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    margin-top: 242px;
+    margin-left: 124px;
+    margin-right: 124px;
+    padding-bottom: 35px;
+    color: #FFFFFF;
+}
+.buttonbackground{
+    display: flex;
+    margin-left: 124px;
+    padding-bottom: 10px;   
+}
+.buttonbackground-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    height: 32px;
+    padding: 8px 12px;
+    margin-right: 10px;
+    background: rgba(58, 180, 255, 0.2);
+    border-radius: 20px;
+    color: #BDCCD5;
+}
+.secondwhole-content{
+    /* margin: auto; */
+    display: flex;
+}
+.secondrow-section{
+    width: fit-content;
+    margin: auto;
+}
+.logo-imgcontent{
+    padding-top: 81px;
+    padding-bottom: 41px;
+}
+.login-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 31px;
+    padding-bottom: 8px;
+    color: #495057;
+}
+.welcome-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    padding-bottom: 41px;
+    color: #828D97;
+}
+.fields-content-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    padding-bottom: 8px;
+    color: #495057;
+}
+.username-inputcontent{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    height: 48px;
+    width: 410px;
+    padding: 16px;
+    margin-bottom: 10px;
+    background: #F2F7FA;
+    border-radius: 10px;
+    border: none;
+    color: #828D97;  
+}
+.username-inputcontent.normal-border:focus-visible{
+    border: 1.5px solid #1A9CEC !important;
+    outline: none;
+}
+.username-inputcontent.error-border{
+    border: 1.5px solid #CA240E !important;
+    outline: none;
+}
+.password-inputcontent.normal-border:focus-visible{
+    border: 1.5px solid #1A9CEC !important;
+    outline: none;
+}
+.password-inputcontent.error-border{
+    border: 1.5px solid #CA240E !important;
+    outline: none;
+}
+.password-inputcontent{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    height: 48px;
+    width: 410px;
+    padding: 16px;
+    margin-bottom: 10px;
+    background: #F2F7FA;
+    border-radius: 10px;
+    border: none;
+    color: #828D97;  
+}
+.text-danger{
+    padding-bottom: 15px;
+}
+.forgot-content{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: right;
+    padding-bottom: 32px;
+    color: #1A9CEC;
+}
+.signinbutton-content{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    height: 48px;
+    width: 410px;
+    padding: 16px;
+    margin-bottom: 34px;
+    background: #1A9CEC;
+    border-radius: 10px;
+    border: none;
+    color: #FFFFFF;  
+}

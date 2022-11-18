@@ -1,0 +1,146 @@
+.sidebar-wholesection{
+    width: 90vw;
+}
+.sidelogo-imgcontent{
+    padding-top: 14px;
+}
+.sidelogo-img{
+    margin: 0 auto;
+    display: flex;
+}
+.user-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 8px;
+    color: #212529;
+}
+.sidebarlogin-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    margin-left: 30px;
+    margin-bottom: 16px;
+    color: #828D97;
+}
+.display{
+    display: flex;
+    max-width: 320px;
+    justify-content: right;
+}
+
+.lock-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    width: 100px;
+    height: 38px;
+    padding-left: 20px;
+    padding-top: 9px;
+    background: #1A9CEC;
+    border-radius: 10px;
+    color: #FFFFFF;  
+}
+.lock-imgcontent{
+    padding-right: 11px;
+}
+.logout-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    width: 100px;
+    height: 38px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-top: 9px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #CA240E;
+    color: #CA240E; 
+}
+.location-content{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 30px;
+    padding-bottom: 61px;
+    color: #495057;
+}
+.location-imgcontent{
+    padding-right: 15px;
+}
+.secondwhole-content{
+    display: flex;
+}
+.card-wholecontent{
+    width: 360px;
+    height: 137px;
+    background: #FDFDFD;
+    box-shadow: 0px 1px 15px -5px rgba(0, 0, 0, 0.11);
+    border-radius: 10px;
+}
+.loginstudies-content{
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-right: 16px;
+}
+.cancellation-content{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+    display: flex;
+    padding-bottom: 25px;
+    color: #000000;
+}
+.mr-auto{
+    padding-left: 25px;
+    float: right;
+}
+.sidebarsecondrow-section{
+    width: fit-content;
+    margin-left: 30px;
+}
+.loginstudie-content{
+    margin-top: -12px;
+}
+.new-content{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 0px !important;
+    color: #495057;
+}
+.studybrief-content{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #828D97;
+}
+.firstrow-cards{
+    margin-left: 40px;
+}
+.wholerow-cards{
+    margin-bottom: 30px;
+}
